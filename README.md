@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RalakEugene
-- 🌱 I’m currently learning Web Development 
+- 🌱 An aspiring Front-End Web Developer 
 
 <!---
 RalakEugene/RalakEugene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
